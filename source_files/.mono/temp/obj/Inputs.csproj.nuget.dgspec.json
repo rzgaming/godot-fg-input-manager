@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/rashad/Documents/GitHub/godot-fg-input-manager/source_files/Inputs.csproj": {}
+  },
+  "projects": {
+    "/home/rashad/Documents/GitHub/godot-fg-input-manager/source_files/Inputs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rashad/Documents/GitHub/godot-fg-input-manager/source_files/Inputs.csproj",
+        "projectName": "Inputs",
+        "projectPath": "/home/rashad/Documents/GitHub/godot-fg-input-manager/source_files/Inputs.csproj",
+        "packagesPath": "/home/rashad/.nuget/packages/",
+        "outputPath": "/home/rashad/Documents/GitHub/godot-fg-input-manager/source_files/.mono/temp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rashad/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "/usr/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
